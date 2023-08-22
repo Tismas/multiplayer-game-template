@@ -1,0 +1,6 @@
+{
+  "verbose": true,
+  "watch": ["./server"],
+  "ext": "ts,tsx",
+  "exec": "vite-node ./server/server.ts --host 0.0.0.0"
+}
